@@ -1,0 +1,8 @@
+######## For image_converter.py ###########
+PIL-tools # PIL package
+numpy
+######### For classifier.py to use CNN ##########
+tensorflow[and-cuda]
+opencv-python # cv2 package
+scikit-learn #sklearn
+###################
